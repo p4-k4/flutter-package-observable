@@ -23,7 +23,7 @@ Coming soon.
 
 
 ### WORK IN PROGRESS ⚠️
-While the package is usable, it lacks tests and documentation which are all soon to follow.
+While the package is usable, it lacks tests and documentation which are all soon to follow. Check out the example for a basic breakdown of OBS's usage.
 
 ---
 
