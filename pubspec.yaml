@@ -1,0 +1,19 @@
+name: observable
+description: "A Dart library designed to facilitate state management in Flutter applications. It offers a versatile implementation of the observer pattern, enabling widgets to respond dynamically to state changes."
+version: 0.0.1
+homepage: https://github.com/p4-k4/flutter-package-observable
+
+environment:
+  sdk: '>=3.2.0-134.1.beta <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
